@@ -1,0 +1,23 @@
+POLIWAY — APPLE RESEARCH V7
+
+Esta versão foi refeita com inspiração nas páginas da Apple, aplicando:
+- grandes áreas de respiro;
+- superfícies claras e premium;
+- hero minimalista de alto impacto;
+- hierarquia tipográfica forte;
+- cartões com borda fina e sombra difusa;
+- assinatura executiva com forte contraste.
+
+Repositório:
+https://github.com/ezrafchev/cota-o
+
+Arquivos para publicar na raiz do repositório:
+- logo_poliway_oficial_topo_v14.png
+- logo_poliway_oficial_marca_v14.png
+- poliway_hero_apple_v7.png
+- poliway_message_apple_v7.png
+- poliway_signature_apple_v7.png
+- poliway_document_apple_v7.png
+
+Arquivo principal:
+email_proposta_poliway_apple_research_v7.html

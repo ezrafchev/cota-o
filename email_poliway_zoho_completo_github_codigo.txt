@@ -12,47 +12,46 @@ img{-ms-interpolation-mode:bicubic}
 @media only screen and (max-width:680px){
   .pw-shell{width:100%!important;border-radius:0!important}
   .pw-outer{padding:0!important}
-  .pw-hero-pad{padding:62px 20px 56px!important}
+  .pw-hero-pad{padding:66px 20px 58px!important}
   .pw-logo{width:360px!important;max-width:96%!important}
   .pw-body{padding:18px 14px 18px!important}
-  .pw-panel{padding:30px 22px 30px!important}
-  .pw-icon-cell{display:none!important}
-  .pw-text-cell{display:block!important;width:100%!important;padding-left:0!important}
+  .pw-message{padding:30px 22px 32px!important}
+  .pw-icon-col{display:none!important}
   .pw-greeting{font-size:24px!important;line-height:33px!important}
-  .pw-sign-wrap{padding:0 14px 22px!important}
+  .pw-sign-wrap{padding:0 14px 24px!important}
   .pw-sign-card{padding:30px 22px 32px!important}
   .pw-sign-left,.pw-sign-right{display:block!important;width:100%!important}
   .pw-sign-left{padding-right:0!important;padding-bottom:26px!important}
-  .pw-sign-right{border-left:0!important;border-top:1px solid #353f4a!important;padding-left:0!important;padding-top:26px!important}
-  .pw-photo{width:168px!important;max-width:168px!important}
+  .pw-sign-right{border-left:0!important;border-top:1px solid #36404b!important;padding-left:0!important;padding-top:26px!important}
+  .pw-photo{width:170px!important;max-width:170px!important}
 }
 </style>
 </head>
-<body style="margin:0;padding:0;background:#f3f4f6;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;">
+<body style="margin:0;padding:0;background:#f5f5f7;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;">
 <div style="display:none;max-height:0;overflow:hidden;opacity:0;color:transparent;line-height:1px;font-size:1px;">
 Poliway | Encaminhamento de proposta detalhada.
 </div>
 
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;background:#f3f4f6;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;background:#f5f5f7;">
 <tr>
-<td align="center" class="pw-outer" style="padding:62px 14px 88px;">
+<td align="center" class="pw-outer" style="padding:64px 14px 92px;">
 
-<table role="presentation" width="840" cellpadding="0" cellspacing="0" border="0" class="pw-shell"
-style="width:100%;max-width:840px;border-collapse:separate;border-spacing:0;background:#fff;border:1px solid #dde2e8;border-radius:48px;overflow:hidden;box-shadow:0 34px 120px rgba(17,24,39,.16);font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Roboto,Arial,sans-serif;">
+<table role="presentation" width="848" cellpadding="0" cellspacing="0" border="0" class="pw-shell"
+style="width:100%;max-width:848px;border-collapse:separate;border-spacing:0;background:#ffffff;border:1px solid #dfe4ea;border-radius:50px;overflow:hidden;box-shadow:0 40px 120px rgba(15,23,42,.12);font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Roboto,Arial,sans-serif;">
 
 <!-- HERO -->
 <tr>
-<td background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_hero_masterpiece_v6.png?v=20260706-v6" style="background-color:#090d12;background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_hero_masterpiece_v6.png?v=20260706-v6');background-size:cover;background-position:center;">
+<td background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_hero_apple_v7.png?v=20260706-v7" style="background-color:#f6f7f9;background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_hero_apple_v7.png?v=20260706-v7');background-size:cover;background-position:center;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
 <tr>
-<td style="height:3px;line-height:3px;font-size:0;background:linear-gradient(90deg,#7d0d14 0%,#e31e24 46%,#ff7377 100%);">&nbsp;</td>
+<td style="height:4px;line-height:4px;font-size:0;background:linear-gradient(90deg,#88111a 0%,#e31e24 48%,#ff777b 100%);">&nbsp;</td>
 </tr>
 <tr>
-<td align="center" class="pw-hero-pad" style="padding:108px 56px 96px;">
+<td align="center" class="pw-hero-pad" style="padding:116px 58px 98px;">
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;">
 <tr>
-<td style="padding:26px 30px;border:1px solid rgba(255,255,255,.17);border-radius:34px;background:rgba(255,255,255,.03);box-shadow:0 34px 80px rgba(0,0,0,.24);">
-<img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/logo_poliway_oficial_topo_v14.png?v=20260706-v6" width="540" alt="Poliway" class="pw-logo" style="display:block;width:540px;max-width:96%;height:auto;border:0;outline:none;text-decoration:none;margin:0 auto;">
+<td style="padding:24px 28px;border:1px solid rgba(255,255,255,.88);border-radius:34px;background:rgba(255,255,255,.56);box-shadow:0 18px 48px rgba(15,23,42,.08);">
+<img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/logo_poliway_oficial_topo_v14.png?v=20260706-v7" width="540" alt="Poliway" class="pw-logo" style="display:block;width:540px;max-width:96%;height:auto;border:0;outline:none;text-decoration:none;margin:0 auto;">
 </td>
 </tr>
 </table>
@@ -61,7 +60,7 @@ style="width:100%;max-width:840px;border-collapse:separate;border-spacing:0;back
 <tr>
 <td style="padding:0 66px 36px;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
-<tr><td style="height:1px;line-height:1px;font-size:0;background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,255,.28) 50%,rgba(255,255,255,0) 100%);">&nbsp;</td></tr>
+<tr><td style="height:1px;line-height:1px;font-size:0;background:linear-gradient(90deg,rgba(0,0,0,0) 0%,rgba(35,45,55,.16) 50%,rgba(0,0,0,0) 100%);">&nbsp;</td></tr>
 </table>
 </td>
 </tr>
@@ -71,34 +70,33 @@ style="width:100%;max-width:840px;border-collapse:separate;border-spacing:0;back
 
 <!-- MESSAGE -->
 <tr>
-<td class="pw-body" style="padding:44px 42px 24px;background:#fff;">
+<td class="pw-body" style="padding:44px 42px 24px;background:#ffffff;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_message_surface_masterpiece_v6.png?v=20260706-v6"
-style="width:100%;border-collapse:separate;border-spacing:0;background-color:#fbfcfd;background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_message_surface_masterpiece_v6.png?v=20260706-v6');background-size:cover;background-position:center;border:1px solid #e1e6ec;border-radius:36px;box-shadow:0 22px 64px rgba(15,23,42,.075);overflow:hidden;">
+background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_message_apple_v7.png?v=20260706-v7"
+style="width:100%;border-collapse:separate;border-spacing:0;background-color:#fbfcfd;background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_message_apple_v7.png?v=20260706-v7');background-size:cover;background-position:center;border:1px solid #e4e8ee;border-radius:38px;box-shadow:0 18px 56px rgba(15,23,42,.06);overflow:hidden;">
 <tr>
-<td style="height:5px;line-height:5px;font-size:0;background:linear-gradient(90deg,#981019 0%,#e31e24 44%,#ff6d72 100%);">&nbsp;</td>
+<td style="height:5px;line-height:5px;font-size:0;background:linear-gradient(90deg,#981019 0%,#e31e24 44%,#ff6f74 100%);">&nbsp;</td>
 </tr>
 <tr>
-<td class="pw-panel" style="padding:48px 46px 50px;">
+<td class="pw-message" style="padding:50px 48px 52px;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
 <tr>
-<td width="104" valign="top" class="pw-icon-cell" style="width:104px;padding-right:26px;">
+<td class="pw-icon-col" width="108" valign="top" style="width:108px;padding-right:28px;">
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;">
 <tr>
-<td style="padding:11px;border:1px solid #dfe5eb;border-radius:28px;background:#fff;box-shadow:0 18px 46px rgba(15,23,42,.09);">
-<img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_document_icon_masterpiece_v6.png?v=20260706-v6" width="82" alt="" style="display:block;width:82px;height:82px;border:0;">
+<td style="padding:12px;border:1px solid #e1e6ed;border-radius:28px;background:#ffffff;box-shadow:0 16px 40px rgba(15,23,42,.07);">
+<img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_document_apple_v7.png?v=20260706-v7" width="84" alt="" style="display:block;width:84px;height:84px;border:0;">
 </td>
 </tr>
 </table>
 </td>
-
-<td valign="top" class="pw-text-cell" style="padding-left:4px;font-size:16px;line-height:31px;color:#293440;">
-<p class="pw-greeting" style="margin:0 0 26px;font-size:30px;line-height:40px;color:#10151c;font-weight:800;letter-spacing:-.7px;">
+<td valign="top" style="font-size:16px;line-height:31px;color:#293440;">
+<p class="pw-greeting" style="margin:0 0 26px;font-size:31px;line-height:41px;color:#10151c;font-weight:800;letter-spacing:-.75px;">
 Prezado(a) <span style="white-space:nowrap;">{{NOME_CLIENTE}}</span>, boa tarde.
 </p>
 
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;margin-bottom:25px;">
-<tr><td style="height:1px;line-height:1px;font-size:0;background:#e3e7ec;">&nbsp;</td></tr>
+<tr><td style="height:1px;line-height:1px;font-size:0;background:#e4e8ed;">&nbsp;</td></tr>
 </table>
 
 <p style="margin:0 0 17px;">Muito obrigado pela consulta.</p>
@@ -107,7 +105,7 @@ Prezado(a) <span style="white-space:nowrap;">{{NOME_CLIENTE}}</span>, boa tarde.
 
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin-top:34px;">
 <tr>
-<td style="width:72px;height:3px;line-height:3px;font-size:0;background:#111827;border-radius:999px;">&nbsp;</td>
+<td style="width:74px;height:3px;line-height:3px;font-size:0;background:#111827;border-radius:999px;">&nbsp;</td>
 <td style="width:10px;font-size:0;">&nbsp;</td>
 <td style="width:28px;height:3px;line-height:3px;font-size:0;background:#e31e24;border-radius:999px;">&nbsp;</td>
 <td style="width:10px;font-size:0;">&nbsp;</td>
@@ -125,55 +123,53 @@ Prezado(a) <span style="white-space:nowrap;">{{NOME_CLIENTE}}</span>, boa tarde.
 
 <!-- SIGNATURE -->
 <tr>
-<td class="pw-sign-wrap" style="padding:0 42px 42px;background:#fff;">
+<td class="pw-sign-wrap" style="padding:0 42px 42px;background:#ffffff;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_signature_surface_masterpiece_v6.png?v=20260706-v6"
-style="width:100%;border-collapse:separate;border-spacing:0;background-color:#0d1117;background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_signature_surface_masterpiece_v6.png?v=20260706-v6');background-size:cover;background-position:center;border:1px solid #252e38;border-radius:36px;overflow:hidden;box-shadow:0 28px 74px rgba(15,23,42,.22);">
+background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_signature_apple_v7.png?v=20260706-v7"
+style="width:100%;border-collapse:separate;border-spacing:0;background-color:#0d1117;background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_signature_apple_v7.png?v=20260706-v7');background-size:cover;background-position:center;border:1px solid #262f38;border-radius:38px;overflow:hidden;box-shadow:0 26px 72px rgba(15,23,42,.20);">
 <tr>
-<td style="height:3px;line-height:3px;font-size:0;background:linear-gradient(90deg,#7d0d14 0%,#e31e24 46%,#ff7377 100%);">&nbsp;</td>
+<td style="height:4px;line-height:4px;font-size:0;background:linear-gradient(90deg,#871019 0%,#e31e24 48%,#ff7579 100%);">&nbsp;</td>
 </tr>
 <tr>
-<td class="pw-sign-card" style="padding:48px 46px 50px;">
+<td class="pw-sign-card" style="padding:50px 48px 52px;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
 <tr>
-<td width="242" valign="top" align="center" class="pw-sign-left" style="width:242px;padding-right:40px;">
-
+<td width="242" valign="top" align="center" class="pw-sign-left" style="width:242px;padding-right:42px;">
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;margin:0 auto 24px;">
 <tr>
-<td style="padding:7px;background:#151b23;border:1px solid #3b4551;border-radius:42px;box-shadow:0 26px 60px rgba(0,0,0,.31);">
-<img src="https://us4-zmud.zoho.com/zm/ImageDisplay?na=7573564000000008002&amp;nmsgId=1775481003957144300&amp;f=1.png&amp;mode=inline&amp;cid=0.1730345560.1992985966379478414.19d6dbbe5c8__inline__img__src&amp;" width="188" alt="Esdra" class="pw-photo" style="display:block;width:188px;max-width:188px;height:auto;border:0;border-radius:35px;">
+<td style="padding:8px;background:#151b23;border:1px solid #3c4652;border-radius:42px;box-shadow:0 24px 60px rgba(0,0,0,.30);">
+<img src="https://us4-zmud.zoho.com/zm/ImageDisplay?na=7573564000000008002&amp;nmsgId=1775481003957144300&amp;f=1.png&amp;mode=inline&amp;cid=0.1730345560.1992985966379478414.19d6dbbe5c8__inline__img__src&amp;" width="188" alt="Esdra" class="pw-photo" style="display:block;width:188px;max-width:188px;height:auto;border:0;border-radius:34px;">
 </td>
 </tr>
 </table>
 
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;">
 <tr>
-<td style="padding:12px 15px;border:1px solid #35404b;border-radius:19px;background:#11171e;box-shadow:0 18px 36px rgba(0,0,0,.18);">
-<img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/logo_poliway_oficial_marca_v14.png?v=20260706-v6" width="198" alt="Poliway" style="display:block;width:198px;max-width:198px;height:auto;border:0;margin:0 auto;">
+<td style="padding:12px 15px;border:1px solid #35404b;border-radius:20px;background:#11171e;box-shadow:0 18px 38px rgba(0,0,0,.18);">
+<img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/logo_poliway_oficial_marca_v14.png?v=20260706-v7" width="200" alt="Poliway" style="display:block;width:200px;max-width:200px;height:auto;border:0;margin:0 auto;">
 </td>
 </tr>
 </table>
 </td>
 
-<td valign="middle" align="left" class="pw-sign-right" style="border-left:1px solid #343e49;padding-left:40px;">
-
-<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin-bottom:21px;">
+<td valign="middle" align="left" class="pw-sign-right" style="border-left:1px solid #353f49;padding-left:42px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin-bottom:22px;">
 <tr>
-<td style="width:62px;height:3px;line-height:3px;font-size:0;background:#e31e24;border-radius:999px;">&nbsp;</td>
+<td style="width:64px;height:3px;line-height:3px;font-size:0;background:#e31e24;border-radius:999px;">&nbsp;</td>
 <td style="width:10px;font-size:0;">&nbsp;</td>
-<td style="width:19px;height:3px;line-height:3px;font-size:0;background:#ffffff;opacity:.44;border-radius:999px;">&nbsp;</td>
+<td style="width:20px;height:3px;line-height:3px;font-size:0;background:#ffffff;opacity:.45;border-radius:999px;">&nbsp;</td>
 </tr>
 </table>
 
 <div style="font-size:14px;line-height:22px;color:#cbd2da;font-weight:700;margin-bottom:7px;">Atenciosamente,</div>
-<div style="font-size:37px;line-height:43px;color:#ffffff;font-weight:800;letter-spacing:-.85px;margin-bottom:4px;">Esdra</div>
+<div style="font-size:38px;line-height:44px;color:#ffffff;font-weight:800;letter-spacing:-.9px;margin-bottom:4px;">Esdra</div>
 <div style="font-size:14px;line-height:22px;color:#aeb7c2;margin-bottom:24px;">Comercial</div>
 
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
-<tr><td width="98" style="width:98px;font-size:13px;line-height:31px;color:#fff;font-weight:800;white-space:nowrap;">Email:</td><td style="font-size:13px;line-height:31px;color:#dce6f1;"><a href="mailto:esdra@poliway.com.br" target="_blank" style="color:#dce6f1;text-decoration:none;">esdra@poliway.com.br</a></td></tr>
-<tr><td width="98" style="width:98px;font-size:13px;line-height:31px;color:#fff;font-weight:800;white-space:nowrap;">WhatsApp:</td><td style="font-size:13px;line-height:31px;color:#dce6f1;">+55 31 98109-5112</td></tr>
-<tr><td width="98" style="width:98px;font-size:13px;line-height:31px;color:#fff;font-weight:800;white-space:nowrap;">Telefones:</td><td style="font-size:13px;line-height:31px;color:#dce6f1;">+55 (31) 3621-3127 | +55 (31) 3621-1275</td></tr>
-<tr><td width="98" style="width:98px;font-size:13px;line-height:31px;color:#fff;font-weight:800;white-space:nowrap;">Endereço:</td><td style="font-size:13px;line-height:31px;color:#dce6f1;">R. João Pinheiro, 338 - Dos Ipês, Vespasiano - MG</td></tr>
+<tr><td width="100" style="width:100px;font-size:13px;line-height:31px;color:#ffffff;font-weight:800;white-space:nowrap;">Email:</td><td style="font-size:13px;line-height:31px;color:#dce6f1;"><a href="mailto:esdra@poliway.com.br" target="_blank" style="color:#dce6f1;text-decoration:none;">esdra@poliway.com.br</a></td></tr>
+<tr><td width="100" style="width:100px;font-size:13px;line-height:31px;color:#ffffff;font-weight:800;white-space:nowrap;">WhatsApp:</td><td style="font-size:13px;line-height:31px;color:#dce6f1;">+55 31 98109-5112</td></tr>
+<tr><td width="100" style="width:100px;font-size:13px;line-height:31px;color:#ffffff;font-weight:800;white-space:nowrap;">Telefones:</td><td style="font-size:13px;line-height:31px;color:#dce6f1;">+55 (31) 3621-3127 | +55 (31) 3621-1275</td></tr>
+<tr><td width="100" style="width:100px;font-size:13px;line-height:31px;color:#ffffff;font-weight:800;white-space:nowrap;">Endereço:</td><td style="font-size:13px;line-height:31px;color:#dce6f1;">R. João Pinheiro, 338 - Dos Ipês, Vespasiano - MG</td></tr>
 </table>
 
 </td>
