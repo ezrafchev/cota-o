@@ -1,0 +1,27 @@
+
+POLIWAY — PROPOSTA DETALHADA | PREMIUM GLOBAL V2
+
+Nesta versão, o conteúdo original foi mantido. O trabalho foi concentrado exclusivamente no design e na arquitetura visual:
+- cabeçalho institucional com logo oficial;
+- sistema de contraste mais sofisticado;
+- card principal com melhor hierarquia e leitura;
+- uso discreto do vermelho institucional como acento;
+- assinatura reestruturada em card premium;
+- melhor espaçamento, proporção e responsividade;
+- estrutura table-based para compatibilidade com Zoho e outros clientes de e-mail.
+
+ARQUIVOS PRINCIPAIS:
+- email_proposta_poliway_premium_global_v2_conteudo_intacto.html
+- email_proposta_poliway_premium_global_v2_codigo.txt
+- PREVIEW_LOCAL_premium_global_v2.html
+- logo_poliway_oficial_topo_v14.png
+- logo_poliway_oficial_marca_v14.png
+
+O placeholder {{NOME_CLIENTE}} foi preservado.
+
+REPOSITÓRIO GITHUB CORRETO:
+https://github.com/ezrafchev/cota-o
+
+Os arquivos de e-mail que usam imagens hospedadas no GitHub foram atualizados para carregar os assets a partir de:
+https://raw.githubusercontent.com/ezrafchev/cota-o/main/
+
