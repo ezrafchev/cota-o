@@ -1,0 +1,26 @@
+QA VISUAL E TÉCNICO — DESIGN SYSTEM V6 MASTERPIECE
+
+CAMADAS DO PROJETO:
+1. Direção de arte
+2. Design system visual
+3. Hierarquia tipográfica
+4. Composição editorial
+5. Tratamento de marca
+6. Design de superfícies
+7. Ícone documental customizado
+8. Responsividade mobile
+9. Compatibilidade table-based para e-mail
+10. Fallback de cores sólidas
+11. Assets em alta definição
+12. Revisão de conteúdo preservado
+
+REPOSITÓRIO:
+https://github.com/ezrafchev/cota-o
+
+ARQUIVOS QUE DEVEM SER PUBLICADOS NA RAIZ:
+- logo_poliway_oficial_topo_v14.png
+- logo_poliway_oficial_marca_v14.png
+- poliway_hero_masterpiece_v6.png
+- poliway_message_surface_masterpiece_v6.png
+- poliway_signature_surface_masterpiece_v6.png
+- poliway_document_icon_masterpiece_v6.png

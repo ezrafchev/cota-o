@@ -1,0 +1,17 @@
+POLIWAY — DESIGN SYSTEM V6 MASTERPIECE
+
+ARQUIVO PRINCIPAL:
+email_proposta_poliway_design_system_v6_masterpiece.html
+
+PREVIEW LOCAL:
+PREVIEW_LOCAL_DESIGN_SYSTEM_V6.html
+
+CONTEÚDO:
+Preservado integralmente.
+
+FOCO:
+Elevação visual máxima com direção de arte, design de superfícies,
+hierarquia, acabamento premium e compatibilidade com e-mail.
+
+REPOSITÓRIO:
+https://github.com/ezrafchev/cota-o
