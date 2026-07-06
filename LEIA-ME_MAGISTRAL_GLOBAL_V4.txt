@@ -1,0 +1,25 @@
+POLIWAY — E-MAIL MAGISTRAL GLOBAL V4
+
+Esta versão preserva integralmente o conteúdo e o objetivo do e-mail original.
+O trabalho foi concentrado em design, hierarquia visual, acabamento premium,
+responsividade e compatibilidade com clientes de e-mail.
+
+REPOSITÓRIO:
+https://github.com/ezrafchev/cota-o
+
+ARQUIVOS QUE DEVEM SER ENVIADOS À RAIZ DO REPOSITÓRIO:
+- logo_poliway_oficial_topo_v14.png
+- logo_poliway_oficial_marca_v14.png
+- poliway_hero_premium_global_v4.png
+- poliway_signature_premium_global_v4.png
+
+ARQUIVO PRINCIPAL:
+email_proposta_poliway_magistral_global_v4.html
+
+PREVIEW LOCAL:
+PREVIEW_LOCAL_MAGISTRAL_GLOBAL_V4.html
+
+OBSERVAÇÃO:
+O HTML usa fundos gráficos premium em PNG com fallback de cor sólida.
+Assim, quando o cliente de e-mail não renderizar background-image,
+o design continua legível e coerente.
