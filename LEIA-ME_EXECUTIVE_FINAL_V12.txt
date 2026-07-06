@@ -1,0 +1,30 @@
+POLIWAY — EXECUTIVE FINAL V12
+
+ARQUIVO PRINCIPAL
+email_proposta_poliway_executive_final_v12.html
+
+ARQUIVO PARA ZOHO
+email_poliway_zoho_completo_github.html
+
+PREVIEW LOCAL
+PREVIEW_LOCAL_EXECUTIVE_FINAL_V12.html
+
+DIREÇÃO VISUAL
+- minimalismo executivo;
+- alto contraste;
+- grande área de respiro;
+- tipografia forte;
+- cards com pouca ornamentação;
+- hierarquia inspirada em páginas de tecnologia premium;
+- identidade Poliway preservada.
+
+IMAGENS
+O HTML final não depende de novos backgrounds externos.
+A logo e a foto usam os caminhos Zoho já existentes no modelo original.
+
+REPOSITÓRIO INFORMADO PELO USUÁRIO
+https://github.com/ezrafchev/cota-o
+
+OBSERVAÇÃO
+Os arquivos de logo oficiais estão mantidos no pacote para arquivo e eventual uso futuro,
+mas o HTML final prioriza o caminho já funcional do Zoho para evitar quebra de imagem.

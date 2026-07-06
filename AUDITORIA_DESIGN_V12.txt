@@ -1,0 +1,32 @@
+AUDITORIA DE DESIGN — EXECUTIVE FINAL V12
+
+PROCESSO REALIZADO
+1. Primeira reconstrução completa.
+2. Renderização local.
+3. Inspeção visual do hero, corpo e assinatura.
+4. Segunda reconstrução com mudança de direção estética.
+5. Nova renderização e inspeção.
+6. Terceira reconstrução com reorganização estrutural da assinatura.
+7. Nova renderização e inspeção.
+8. Quarta passagem de simplificação visual e acabamento final.
+
+PRINCIPAIS DECISÕES DA VERSÃO FINAL
+- remoção de elementos gráficos desnecessários;
+- eliminação de imagens externas decorativas que poderiam quebrar;
+- hero preto puro para valorizar corretamente a logo oficial clara;
+- corpo em fundo cinza-claro com card branco;
+- tipografia grande, limpa e hierárquica;
+- assinatura escura mais simples, organizada em duas etapas;
+- contatos em grid de duas colunas;
+- uso mínimo do vermelho, deixando a própria identidade visual da Poliway carregar a cor;
+- conteúdo original preservado integralmente.
+
+ROBUSTEZ DE IMAGENS
+O HTML final não depende de nenhuma imagem decorativa nova.
+A logo usa o mesmo caminho Zoho já existente no modelo original.
+A foto usa o caminho Zoho já existente no modelo original.
+Isso reduz o risco de imagens quebradas em comparação com versões que exigiam upload de novos backgrounds.
+
+CONTEÚDO
+Nenhum texto comercial novo foi adicionado.
+Nenhum objetivo do e-mail foi alterado.

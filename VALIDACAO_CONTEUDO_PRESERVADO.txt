@@ -1,12 +1,13 @@
-VALIDAÇÃO DE CONTEÚDO
-
-Conteúdo preservado integralmente:
+VALIDAÇÃO DE CONTEÚDO PRESERVADO
 
 Poliway | Encaminhamento de proposta detalhada.
 
 Prezado(a) {{NOME_CLIENTE}}, boa tarde.
+
 Muito obrigado pela consulta.
+
 Em anexo, encaminhamos nossa proposta detalhada.
+
 Permanecemos à disposição para esclarecer qualquer dúvida e realizar eventuais ajustes que se façam necessários.
 
 Atenciosamente,
