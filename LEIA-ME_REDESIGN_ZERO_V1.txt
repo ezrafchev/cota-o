@@ -1,0 +1,24 @@
+POLIWAY — REDESIGN ZERO V1
+
+Esta versão foi refeita do zero.
+
+O principal problema relatado era o desaparecimento da nova imagem. Para corrigir isso,
+a nova versão final foi construída SEM depender de novas imagens externas de fundo.
+
+O HTML principal agora é essencialmente autossuficiente:
+- usa o logo oficial incorporado no próprio HTML (data URI);
+- usa o logo institucional da assinatura também incorporado no próprio HTML;
+- usa layout premium feito com HTML/CSS/tabelas, sem depender de superfícies PNG externas;
+- mantém apenas a foto do contato no link do Zoho já utilizado anteriormente.
+
+ARQUIVOS PRINCIPAIS:
+- email_proposta_poliway_redesign_zero_v1.html
+- email_poliway_zoho_completo_github.html
+- PREVIEW_LOCAL_REDESIGN_ZERO_V1.html
+
+CONTEÚDO PRESERVADO:
+- saudação ao cliente
+- agradecimento pela consulta
+- informação do envio da proposta detalhada em anexo
+- disponibilidade para dúvidas e ajustes
+- assinatura e contatos
