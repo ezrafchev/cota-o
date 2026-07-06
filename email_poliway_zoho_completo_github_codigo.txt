@@ -1,188 +1,184 @@
 <!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="x-apple-disable-message-reformatting">
-  <title>Poliway | Encaminhamento de proposta detalhada.</title>
-  <style>
-    html, body { margin:0 !important; padding:0 !important; width:100% !important; }
-    table, td { mso-table-lspace:0pt; mso-table-rspace:0pt; }
-    img { -ms-interpolation-mode:bicubic; }
-    @media only screen and (max-width: 640px) {
-      .pw-shell { width:100% !important; border-radius:0 !important; }
-      .pw-outer { padding:0 !important; }
-      .pw-hero { padding:58px 22px 54px !important; }
-      .pw-logo-top { width:360px !important; max-width:96% !important; }
-      .pw-body { padding:22px 16px 18px !important; }
-      .pw-message { padding:30px 24px 28px !important; }
-      .pw-greeting { font-size:24px !important; line-height:33px !important; }
-      .pw-sign-wrap { padding:0 16px 24px !important; }
-      .pw-sign-card { padding:30px 24px 32px !important; }
-      .pw-sign-left,.pw-sign-right { display:block !important; width:100% !important; }
-      .pw-sign-left { padding-right:0 !important; padding-bottom:26px !important; }
-      .pw-sign-right { border-left:0 !important; border-top:1px solid #343c48 !important; padding-left:0 !important; padding-top:26px !important; }
-      .pw-photo { width:166px !important; max-width:166px !important; }
-      .pw-contact-label { width:82px !important; }
-    }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="x-apple-disable-message-reformatting">
+<title>Poliway | Encaminhamento de proposta detalhada.</title>
+<style>
+html,body{margin:0!important;padding:0!important;width:100%!important}
+table,td{mso-table-lspace:0pt;mso-table-rspace:0pt}
+img{-ms-interpolation-mode:bicubic}
+@media only screen and (max-width:680px){
+  .pw-shell{width:100%!important;border-radius:0!important}
+  .pw-outer{padding:0!important}
+  .pw-hero-pad{padding:58px 20px 52px!important}
+  .pw-logo{width:360px!important;max-width:96%!important}
+  .pw-body{padding:18px 14px 18px!important}
+  .pw-panel{padding:26px 20px 28px!important}
+  .pw-icon-cell{display:none!important}
+  .pw-text-cell{display:block!important;width:100%!important;padding-left:0!important}
+  .pw-greeting{font-size:24px!important;line-height:33px!important}
+  .pw-sign-wrap{padding:0 14px 22px!important}
+  .pw-sign-card{padding:28px 22px 30px!important}
+  .pw-sign-left,.pw-sign-right{display:block!important;width:100%!important}
+  .pw-sign-left{padding-right:0!important;padding-bottom:24px!important}
+  .pw-sign-right{border-left:0!important;border-top:1px solid #343c47!important;padding-left:0!important;padding-top:24px!important}
+  .pw-photo{width:168px!important;max-width:168px!important}
+}
+</style>
 </head>
-<body style="margin:0; padding:0; background:#f5f5f7; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;">
-  <div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent; line-height:1px; font-size:1px;">
-    Poliway | Encaminhamento de proposta detalhada.
-  </div>
+<body style="margin:0;padding:0;background:#f2f2f7;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;">
+<div style="display:none;max-height:0;overflow:hidden;opacity:0;color:transparent;line-height:1px;font-size:1px;">
+Poliway | Encaminhamento de proposta detalhada.
+</div>
 
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse; background:#f5f5f7;">
-    <tr>
-      <td align="center" class="pw-outer" style="padding:52px 14px 76px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;background:#f2f2f7;">
+<tr>
+<td align="center" class="pw-outer" style="padding:58px 14px 84px;">
 
-        <table role="presentation" width="784" cellpadding="0" cellspacing="0" border="0" class="pw-shell"
-          style="width:100%; max-width:784px; border-collapse:separate; border-spacing:0; background:#ffffff; border:1px solid #e2e5e9; border-radius:42px; overflow:hidden; box-shadow:0 30px 90px rgba(15,23,42,.13); font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Roboto,Arial,sans-serif;">
+<table role="presentation" width="820" cellpadding="0" cellspacing="0" border="0" class="pw-shell"
+style="width:100%;max-width:820px;border-collapse:separate;border-spacing:0;background:#fff;border:1px solid #dde2e8;border-radius:46px;overflow:hidden;box-shadow:0 32px 110px rgba(17,24,39,.15);font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Roboto,Arial,sans-serif;">
 
-          <!-- HERO: same purpose, stronger visual hierarchy -->
-          <tr>
-            <td background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_hero_premium_global_v4.png?v=20260706-v4" style="background-color:#0b0f14; background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_hero_premium_global_v4.png?v=20260706-v4'); background-position:center; background-size:cover;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse;">
-                <tr>
-                  <td style="height:2px; line-height:2px; font-size:0; background:#e31e24;">&nbsp;</td>
-                </tr>
-                <tr>
-                  <td align="center" class="pw-hero" style="padding:92px 52px 88px;">
-                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate; border-spacing:0;">
-                      <tr>
-                        <td style="padding:20px 26px; border:1px solid rgba(255,255,255,.14); border-radius:28px; background:rgba(255,255,255,.025);">
-                          <img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/logo_poliway_oficial_topo_v14.png?v=20260706-v4" width="500" alt="Poliway" class="pw-logo-top"
-                            style="display:block; width:500px; max-width:94%; height:auto; border:0; outline:none; text-decoration:none; margin:0 auto;">
-                        </td>
-                      </tr>
-                    </table>
-                  </td>
-                </tr>
-                <tr>
-                  <td style="padding:0 56px 30px;">
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse;">
-                      <tr>
-                        <td style="height:1px; line-height:1px; font-size:0; background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,255,.22) 50%,rgba(255,255,255,0) 100%);">&nbsp;</td>
-                      </tr>
-                    </table>
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
+<!-- HERO -->
+<tr>
+<td background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_hero_signature_global_v5.png?v=20260706-v5" style="background-color:#090d12;background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_hero_signature_global_v5.png?v=20260706-v5');background-size:cover;background-position:center;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
+<tr><td style="height:3px;line-height:3px;font-size:0;background:linear-gradient(90deg,#7a0b12 0%,#e31e24 48%,#ff7478 100%);">&nbsp;</td></tr>
+<tr>
+<td align="center" class="pw-hero-pad" style="padding:104px 54px 92px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;">
+<tr>
+<td style="padding:24px 28px;border:1px solid rgba(255,255,255,.16);border-radius:32px;background:rgba(255,255,255,.03);box-shadow:0 30px 70px rgba(0,0,0,.22);">
+<img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/logo_poliway_oficial_topo_v14.png?v=20260706-v5" width="520" alt="Poliway" class="pw-logo" style="display:block;width:520px;max-width:95%;height:auto;border:0;outline:none;text-decoration:none;margin:0 auto;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0 62px 34px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
+<tr><td style="height:1px;line-height:1px;font-size:0;background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,255,.26) 50%,rgba(255,255,255,0) 100%);">&nbsp;</td></tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
 
-          <!-- MESSAGE -->
-          <tr>
-            <td class="pw-body" style="padding:46px 44px 28px; background:#ffffff;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-                style="width:100%; border-collapse:separate; border-spacing:0; background:#ffffff; border:1px solid #e5e7eb; border-radius:30px; box-shadow:0 18px 48px rgba(15,23,42,.055); overflow:hidden;">
-                <tr>
-                  <td style="height:4px; line-height:4px; font-size:0; background:linear-gradient(90deg,#b20f19 0%,#e31e24 50%,#ff6065 100%);">&nbsp;</td>
-                </tr>
-                <tr>
-                  <td class="pw-message" style="padding:46px 48px 42px; font-size:16px; line-height:31px; color:#2b3643; font-weight:400;">
-                    <p class="pw-greeting" style="margin:0 0 26px; font-size:27px; line-height:37px; color:#10151c; font-weight:800; letter-spacing:-0.55px;">
-                      Prezado(a) <span style="white-space:nowrap;">{{NOME_CLIENTE}}</span>, boa tarde.
-                    </p>
+<!-- MESSAGE AREA -->
+<tr>
+<td class="pw-body" style="padding:42px 42px 24px;background:#fff;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
+background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_message_surface_global_v5.png?v=20260706-v5"
+style="width:100%;border-collapse:separate;border-spacing:0;background-color:#fbfcfd;background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_message_surface_global_v5.png?v=20260706-v5');background-size:cover;background-position:center;border:1px solid #e1e6ec;border-radius:34px;box-shadow:0 22px 58px rgba(15,23,42,.07);overflow:hidden;">
+<tr><td style="height:5px;line-height:5px;font-size:0;background:linear-gradient(90deg,#98111a 0%,#e31e24 45%,#ff6f73 100%);">&nbsp;</td></tr>
+<tr>
+<td class="pw-panel" style="padding:44px 44px 46px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
+<tr>
+<td width="96" valign="top" class="pw-icon-cell" style="width:96px;padding-right:24px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;">
+<tr>
+<td style="padding:10px;border:1px solid #e0e5eb;border-radius:26px;background:#ffffff;box-shadow:0 18px 42px rgba(15,23,42,.08);">
+<img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_document_icon_global_v5.png?v=20260706-v5" width="76" alt="" style="display:block;width:76px;height:76px;border:0;">
+</td>
+</tr>
+</table>
+</td>
+<td valign="top" class="pw-text-cell" style="padding-left:4px;font-size:16px;line-height:31px;color:#2a3441;">
+<p class="pw-greeting" style="margin:0 0 24px;font-size:29px;line-height:39px;color:#10151c;font-weight:800;letter-spacing:-.65px;">
+Prezado(a) <span style="white-space:nowrap;">{NOME_CLIENTE}</span>, boa tarde.
+</p>
 
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse; margin-bottom:26px;">
-                      <tr>
-                        <td style="height:1px; line-height:1px; font-size:0; background:#e8ebef;">&nbsp;</td>
-                      </tr>
-                    </table>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;margin-bottom:24px;">
+<tr><td style="height:1px;line-height:1px;font-size:0;background:#e3e7ec;">&nbsp;</td></tr>
+</table>
 
-                    <p style="margin:0 0 17px;">Muito obrigado pela consulta.</p>
-                    <p style="margin:0 0 17px;">Em anexo, encaminhamos nossa proposta detalhada.</p>
-                    <p style="margin:0;">Permanecemos à disposição para esclarecer qualquer dúvida e realizar eventuais ajustes que se façam necessários.</p>
+<p style="margin:0 0 17px;">Muito obrigado pela consulta.</p>
+<p style="margin:0 0 17px;">Em anexo, encaminhamos nossa proposta detalhada.</p>
+<p style="margin:0;">Permanecemos à disposição para esclarecer qualquer dúvida e realizar eventuais ajustes que se façam necessários.</p>
 
-                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; margin-top:34px;">
-                      <tr>
-                        <td style="width:64px; height:3px; line-height:3px; font-size:0; background:#111827; border-radius:999px;">&nbsp;</td>
-                        <td style="width:9px; font-size:0; line-height:0;">&nbsp;</td>
-                        <td style="width:24px; height:3px; line-height:3px; font-size:0; background:#e31e24; border-radius:999px;">&nbsp;</td>
-                        <td style="width:9px; font-size:0; line-height:0;">&nbsp;</td>
-                        <td style="width:8px; height:3px; line-height:3px; font-size:0; background:#cfd5dc; border-radius:999px;">&nbsp;</td>
-                      </tr>
-                    </table>
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin-top:32px;">
+<tr>
+<td style="width:70px;height:3px;line-height:3px;font-size:0;background:#111827;border-radius:999px;">&nbsp;</td>
+<td style="width:10px;font-size:0;">&nbsp;</td>
+<td style="width:26px;height:3px;line-height:3px;font-size:0;background:#e31e24;border-radius:999px;">&nbsp;</td>
+<td style="width:10px;font-size:0;">&nbsp;</td>
+<td style="width:9px;height:3px;line-height:3px;font-size:0;background:#cfd5dc;border-radius:999px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
 
-          <!-- SIGNATURE -->
-          <tr>
-            <td class="pw-sign-wrap" style="padding:0 44px 44px; background:#ffffff;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-                background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_signature_premium_global_v4.png?v=20260706-v4"
-                style="width:100%; border-collapse:separate; border-spacing:0; background-color:#0d1218; background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_signature_premium_global_v4.png?v=20260706-v4'); background-position:center; background-size:cover; border:1px solid #242d38; border-radius:30px; overflow:hidden; box-shadow:0 22px 58px rgba(15,23,42,.16);">
-                <tr>
-                  <td class="pw-sign-card" style="padding:42px 42px 44px;">
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse;">
-                      <tr>
-                        <td width="230" valign="top" align="center" class="pw-sign-left" style="width:230px; padding-right:36px;">
-                          <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate; border-spacing:0; margin:0 auto 24px;">
-                            <tr>
-                              <td style="padding:6px; background:#141a22; border:1px solid #3a4350; border-radius:38px; box-shadow:0 20px 50px rgba(0,0,0,.28);">
-                                <img src="https://us4-zmud.zoho.com/zm/ImageDisplay?na=7573564000000008002&amp;nmsgId=1775481003957144300&amp;f=1.png&amp;mode=inline&amp;cid=0.1730345560.1992985966379478414.19d6dbbe5c8__inline__img__src&amp;" width="182" alt="Esdra" class="pw-photo"
-                                  style="display:block; width:182px; max-width:182px; height:auto; border:0; border-radius:32px;">
-                              </td>
-                            </tr>
-                          </table>
+<!-- SIGNATURE -->
+<tr>
+<td class="pw-sign-wrap" style="padding:0 42px 42px;background:#fff;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
+background="https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_signature_surface_global_v5.png?v=20260706-v5"
+style="width:100%;border-collapse:separate;border-spacing:0;background-color:#0d1117;background-image:url('https://raw.githubusercontent.com/ezrafchev/cota-o/main/poliway_signature_surface_global_v5.png?v=20260706-v5');background-size:cover;background-position:center;border:1px solid #252d36;border-radius:34px;overflow:hidden;box-shadow:0 26px 70px rgba(15,23,42,.20);">
+<tr>
+<td style="height:3px;line-height:3px;font-size:0;background:linear-gradient(90deg,#7a0b12 0%,#e31e24 48%,#ff7478 100%);">&nbsp;</td>
+</tr>
+<tr>
+<td class="pw-sign-card" style="padding:46px 44px 48px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
+<tr>
+<td width="236" valign="top" align="center" class="pw-sign-left" style="width:236px;padding-right:38px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;margin:0 auto 24px;">
+<tr>
+<td style="padding:7px;background:#151b23;border:1px solid #3b4551;border-radius:40px;box-shadow:0 24px 54px rgba(0,0,0,.30);">
+<img src="https://us4-zmud.zoho.com/zm/ImageDisplay?na=7573564000000008002&amp;nmsgId=1775481003957144300&amp;f=1.png&amp;mode=inline&amp;cid=0.1730345560.1992985966379478414.19d6dbbe5c8__inline__img__src&amp;" width="184" alt="Esdra" class="pw-photo" style="display:block;width:184px;max-width:184px;height:auto;border:0;border-radius:33px;">
+</td>
+</tr>
+</table>
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;">
+<tr>
+<td style="padding:11px 14px;border:1px solid #35404b;border-radius:18px;background:#11171e;box-shadow:0 16px 34px rgba(0,0,0,.16);">
+<img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/logo_poliway_oficial_marca_v14.png?v=20260706-v5" width="196" alt="Poliway" style="display:block;width:196px;max-width:196px;height:auto;border:0;margin:0 auto;">
+</td>
+</tr>
+</table>
+</td>
 
-                          <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate; border-spacing:0;">
-                            <tr>
-                              <td style="padding:10px 14px; border:1px solid #343e49; border-radius:18px; background:#11171e;">
-                                <img src="https://raw.githubusercontent.com/ezrafchev/cota-o/main/logo_poliway_oficial_marca_v14.png?v=20260706-v4" width="194" alt="Poliway"
-                                  style="display:block; width:194px; max-width:194px; height:auto; border:0; margin:0 auto;">
-                              </td>
-                            </tr>
-                          </table>
-                        </td>
+<td valign="middle" align="left" class="pw-sign-right" style="border-left:1px solid #343d48;padding-left:38px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin-bottom:20px;">
+<tr>
+<td style="width:60px;height:3px;line-height:3px;font-size:0;background:#e31e24;border-radius:999px;">&nbsp;</td>
+<td style="width:10px;font-size:0;">&nbsp;</td>
+<td style="width:18px;height:3px;line-height:3px;font-size:0;background:#ffffff;opacity:.42;border-radius:999px;">&nbsp;</td>
+</tr>
+</table>
 
-                        <td valign="middle" align="left" class="pw-sign-right" style="border-left:1px solid #353e49; padding-left:36px;">
-                          <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; margin-bottom:18px;">
-                            <tr>
-                              <td style="width:56px; height:3px; line-height:3px; font-size:0; background:#e31e24; border-radius:999px;">&nbsp;</td>
-                              <td style="width:10px; font-size:0; line-height:0;">&nbsp;</td>
-                              <td style="width:18px; height:3px; line-height:3px; font-size:0; background:#ffffff; opacity:.45; border-radius:999px;">&nbsp;</td>
-                            </tr>
-                          </table>
+<div style="font-size:14px;line-height:22px;color:#cbd2da;font-weight:700;margin-bottom:7px;">Atenciosamente,</div>
+<div style="font-size:36px;line-height:42px;color:#ffffff;font-weight:800;letter-spacing:-.8px;margin-bottom:4px;">Esdra</div>
+<div style="font-size:14px;line-height:22px;color:#aeb7c2;margin-bottom:23px;">Comercial</div>
 
-                          <div style="font-size:14px; line-height:22px; color:#cbd2da; font-weight:700; margin-bottom:7px;">Atenciosamente,</div>
-                          <div style="font-size:35px; line-height:41px; color:#ffffff; font-weight:800; letter-spacing:-0.75px; margin-bottom:4px;">Esdra</div>
-                          <div style="font-size:14px; line-height:22px; color:#aeb7c2; margin-bottom:22px;">Comercial</div>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
+<tr><td width="96" style="width:96px;font-size:13px;line-height:30px;color:#fff;font-weight:800;white-space:nowrap;">Email:</td><td style="font-size:13px;line-height:30px;color:#dce6f1;"><a href="mailto:esdra@poliway.com.br" target="_blank" style="color:#dce6f1;text-decoration:none;">esdra@poliway.com.br</a></td></tr>
+<tr><td width="96" style="width:96px;font-size:13px;line-height:30px;color:#fff;font-weight:800;white-space:nowrap;">WhatsApp:</td><td style="font-size:13px;line-height:30px;color:#dce6f1;">+55 31 98109-5112</td></tr>
+<tr><td width="96" style="width:96px;font-size:13px;line-height:30px;color:#fff;font-weight:800;white-space:nowrap;">Telefones:</td><td style="font-size:13px;line-height:30px;color:#dce6f1;">+55 (31) 3621-3127 | +55 (31) 3621-1275</td></tr>
+<tr><td width="96" style="width:96px;font-size:13px;line-height:30px;color:#fff;font-weight:800;white-space:nowrap;">Endereço:</td><td style="font-size:13px;line-height:30px;color:#dce6f1;">R. João Pinheiro, 338 - Dos Ipês, Vespasiano - MG</td></tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
 
-                          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse;">
-                            <tr>
-                              <td class="pw-contact-label" width="94" style="width:94px; font-size:13px; line-height:29px; color:#ffffff; font-weight:800; white-space:nowrap;">Email:</td>
-                              <td style="font-size:13px; line-height:29px; color:#dce6f1;"><a href="mailto:esdra@poliway.com.br" target="_blank" style="color:#dce6f1; text-decoration:none;">esdra@poliway.com.br</a></td>
-                            </tr>
-                            <tr>
-                              <td class="pw-contact-label" width="94" style="width:94px; font-size:13px; line-height:29px; color:#ffffff; font-weight:800; white-space:nowrap;">WhatsApp:</td>
-                              <td style="font-size:13px; line-height:29px; color:#dce6f1;">+55 31 98109-5112</td>
-                            </tr>
-                            <tr>
-                              <td class="pw-contact-label" width="94" style="width:94px; font-size:13px; line-height:29px; color:#ffffff; font-weight:800; white-space:nowrap;">Telefones:</td>
-                              <td style="font-size:13px; line-height:29px; color:#dce6f1;">+55 (31) 3621-3127 | +55 (31) 3621-1275</td>
-                            </tr>
-                            <tr>
-                              <td class="pw-contact-label" width="94" style="width:94px; font-size:13px; line-height:29px; color:#ffffff; font-weight:800; white-space:nowrap;">Endereço:</td>
-                              <td style="font-size:13px; line-height:29px; color:#dce6f1;">R. João Pinheiro, 338 - Dos Ipês, Vespasiano - MG</td>
-                            </tr>
-                          </table>
-                        </td>
-                      </tr>
-                    </table>
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
-
-        </table>
-      </td>
-    </tr>
-  </table>
+</table>
+</td>
+</tr>
+</table>
 </body>
 </html>

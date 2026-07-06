@@ -1,0 +1,31 @@
+POLIWAY — SIGNATURE GLOBAL V5
+
+Objetivo desta versão:
+elevar o design a um patamar premium internacional sem alterar o conteúdo original do e-mail.
+
+REPOSITÓRIO:
+https://github.com/ezrafchev/cota-o
+
+SUBIR PARA A RAIZ DO REPOSITÓRIO:
+- logo_poliway_oficial_topo_v14.png
+- logo_poliway_oficial_marca_v14.png
+- poliway_hero_signature_global_v5.png
+- poliway_message_surface_global_v5.png
+- poliway_signature_surface_global_v5.png
+- poliway_document_icon_global_v5.png
+
+ARQUIVO PRINCIPAL:
+email_proposta_poliway_signature_global_v5.html
+
+PREVIEW LOCAL:
+PREVIEW_LOCAL_SIGNATURE_GLOBAL_V5.html
+
+CARACTERÍSTICAS:
+- hero gráfico high-end em alta resolução;
+- superfície editorial clara para a mensagem;
+- assinatura premium independente;
+- ícone documental customizado;
+- hierarquia tipográfica refinada;
+- compatibilidade de e-mail por estrutura table-based;
+- fallback de cores quando background-image não for suportado;
+- conteúdo textual preservado integralmente.
